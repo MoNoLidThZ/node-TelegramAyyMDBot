@@ -23,6 +23,9 @@ var reply = {
 
 var photoReply = {
 	"gtx 480":'data/gtx480.jpg',
+	"gtx 970":'data/gtx970.jpg',
+	"3.5gb":'data/gtx970.jpg',
+	"4gb":'data/4gb.jpg',
 	"gtx 1080ti":'data/gtx1080ti.jpg',
 	"gtx 1080 ti":'data/gtx1080ti.jpg',
 	"gtx 1080":'data/gtx1080.jpg',
